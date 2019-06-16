@@ -13,7 +13,7 @@ Actions Peformed:
 
 ---> Connected and transformed data
 ---> Built a relational data model
----> Created a new calculated columns and DAX meaures
+---> Created a new calculated columns and DAX measures
 ---> Designed an interactive report to analyze and visualize the data
 
 
