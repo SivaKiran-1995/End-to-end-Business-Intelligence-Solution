@@ -11,10 +11,10 @@ Brief Introduction:
 
 Actions Peformed:
 
-Connected and transformed data
-Built a relational data model
-Created a new calculated columns and DAX meaures
-Designed an interactive report to analyze and visualize the data
+---> Connected and transformed data
+---> Built a relational data model
+---> Created a new calculated columns and DAX meaures
+---> Designed an interactive report to analyze and visualize the data
 
 
 
